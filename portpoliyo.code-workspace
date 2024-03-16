@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../graphics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portpoliyo"
+	}
+}
